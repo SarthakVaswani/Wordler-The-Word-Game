@@ -4,7 +4,7 @@
 
 [Wordler Play Store](https://play.google.com/store/apps/details?id=com.svas.wordle_twg)
 
-Wordler: The Word Game - has a unique twist. Find as many words as you can to exercise your brain and test your vocabulary. Simply swipe the letters to combine them into a word and get points as you go. Wordle is great if you like word games.
+Wordler: The Word Game - has a unique twist, Find as many words as you can to exercise your brain and test your vocabulary. Simply swipe the letters to combine them into a word and get points as you go. Wordle is great if you like word games.
 
 Guess a word, then base your next choice on the colours of the tiles. You have six chances to guess the right word.
 
