@@ -1,4 +1,4 @@
-# Wordler-The-Word-Game
+# [Wordler Play Store](https://play.google.com/store/apps/details?id=com.svas.wordle_twg)
 
 <img src="https://user-images.githubusercontent.com/55880923/201124700-917072be-97ad-4807-988f-07e2fed26b8f.png" width="200" height="200">
 
